@@ -1,4 +1,4 @@
-<img src="./banner.png" alt="Aditya — Full Stack + Applied AI" width="100%" />
+<img src="./banner.png" alt="Aditya Janager — Full Stack + Applied AI" width="100%" />
 
 <!-- <h1 align="center">Hey, I'm Aditya 👋</h1> -->
 

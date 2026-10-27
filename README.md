@@ -1,16 +1,16 @@
-## Hi there 👋
+<img src="./banner.png" alt="Aditya — Full Stack + Applied AI" width="100%" />
 
-<!--
-**Aditya-IIITD/Aditya-IIITD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <h1 align="center">Hey, I'm Aditya 👋</h1> -->
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Full Stack Engineer · Building with AI</b><br/>
+  Clean interfaces. Solid backends. Smarter workflows.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,nodejs,express,fastapi,postgres,prisma,redis,aws,docker,git,githubactions&theme=dark&perline=8" alt="My tech stack" />
+</p>
+
+<p align="center">
+  SaaS Platforms · AI Workflows · REST APIs · Cloud Deployments
+</p>
